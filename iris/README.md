@@ -8,7 +8,7 @@ Types of classifier models:
 
 ```
 [x] naive bayes
--  k-nearest neighbors
+[x] k-nearest neighbors
 -  logistic regression
 -  linear regression
 -  SVM (Supprt Vector Machines)
@@ -22,8 +22,8 @@ Will rank and tweak with hyperparameters to come up with the best positioned mod
 
 No hyperparameters optimization
 ```
-- naive bayes: Accuracy: 0.9
-- k-nearest neighbors:
+- naive bayes: 0.9
+- k-nearest neighbors: 1.0
 - logistic regression:
 - linier regression:
     Mean absolute error (MAE):
