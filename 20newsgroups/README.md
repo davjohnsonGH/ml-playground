@@ -30,5 +30,5 @@ No hyperparameters optimization
     Mean Squared Error (MAE): 15.18
     R-squared (r2): 0.51
     Root Mean Squared Error (rmse): 3.90
-- SVM (Supprt Vector Machines)
+- SVM (Supprt Vector Machines):  0.8655172413793103
 ```
