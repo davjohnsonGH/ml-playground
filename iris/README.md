@@ -9,8 +9,8 @@ Types of classifier models:
 ```
 [x] naive bayes
 [x] k-nearest neighbors
--  logistic regression
--  linear regression
+[x] logistic regression
+[x] linear regression
 -  SVM (Supprt Vector Machines)
 - Adaptive Boosting
 - Decision Trees
@@ -24,12 +24,12 @@ No hyperparameters optimization
 ```
 - naive bayes: 0.9
 - k-nearest neighbors: 1.0
-- logistic regression:
+- logistic regression: 1.0
 - linier regression:
-    Mean absolute error (MAE):
-    Mean Squared Error (MAE):
-    R-squared (r2):
-    Root Mean Squared Error (rmse):
+    Mean absolute error (MAE): 0.15
+    Mean Squared Error (MAE): 0.04
+    R-squared (r2): 0.95
+    Root Mean Squared Error (rmse): 0.19
 - SVM (Supprt Vector Machines):
 - Adaptive Boosting:
 - Decision Trees: Accuracy:
