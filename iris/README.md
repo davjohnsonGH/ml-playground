@@ -11,11 +11,10 @@ Types of classifier models:
 [x] k-nearest neighbors
 [x] logistic regression
 [x] linear regression
--  SVM (Supprt Vector Machines)
-- Adaptive Boosting
-- Decision Trees
-- Random Forests
-- Gradient Boosting Machines
+[x] SVM (Supprt Vector Machines)
+[x] Decision Trees
+[x] Random Forests
+[x] Gradient Boosting Machines
 ```
 
 Will rank and tweak with hyperparameters to come up with the best positioned model
@@ -31,7 +30,7 @@ No hyperparameters optimization
     R-squared (r2): 0.95
     Root Mean Squared Error (rmse): 0.19
 - SVM (Supprt Vector Machines): 1.0
-- Decision Trees: Accuracy:
-- Random Forests: Accuracy:
-- Gradient Boosting Machines: Accuracy:
+- Decision Trees: Accuracy: 1.0000
+- Random Forests: Accuracy: 1.0000
+- Gradient Boosting Machines: Accuracy: 1.0000
 ```
