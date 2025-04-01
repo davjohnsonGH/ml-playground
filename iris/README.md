@@ -30,8 +30,7 @@ No hyperparameters optimization
     Mean Squared Error (MAE): 0.04
     R-squared (r2): 0.95
     Root Mean Squared Error (rmse): 0.19
-- SVM (Supprt Vector Machines):
-- Adaptive Boosting:
+- SVM (Supprt Vector Machines): 1.0
 - Decision Trees: Accuracy:
 - Random Forests: Accuracy:
 - Gradient Boosting Machines: Accuracy:
